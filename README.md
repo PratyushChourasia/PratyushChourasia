@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PratyushChourasia
-- 👀 I’m interested in Software development internship
-- 🌱 I’m currently learning Data Structure and Algorithms.
-- 💞️ I’m looking for internship ,moreover in software development
+- 👀 I’m interested in Data Science/Analyst Job
+- 🌱 I’m currently learning Data Science, ML and NLP
+- 💞️ I’m looking for JOB 
 - 📫 reach me through linked in https://www.linkedin.com/in/pratyush-chourasia-5781511aa/
 
 <!---
